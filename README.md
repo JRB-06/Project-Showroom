@@ -1,4 +1,6 @@
 # Project-Showroom
+Temporary Demo: http://localhost:5174/
+__Note:__ Only active when debugging  
 
 # About
 This Project Showroom serves as a portfolio website designed to showcase projects/skills/prototypes/designs curated by students of ACLC College of Tacloban 
