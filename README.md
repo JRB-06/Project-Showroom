@@ -29,7 +29,7 @@ Developed by [JRB-06](https://github.com/JRB-06)
   
 
 
-### Contributors
+### Contributors:
 
 
 
