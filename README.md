@@ -24,8 +24,9 @@ Built with [React.js](https://react.dev/) (JavaScript Framework) + [Tailwind](ht
 
 # Website Developer
 Developed by [JRB-06](https://github.com/JRB-06)  
-  Aspiring Full-Stack Developer specializing in Web Application Devlopment
+  Aspiring Full-Stack Developer specializing in Web Application Devlopment  
   Developed this website to learn/build a full stack web application with Vite+React+Tailwind application
+  
 
 
 ### Contributors
