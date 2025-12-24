@@ -9,7 +9,7 @@ __Bachelor of Science in Computer Science__ Batch 2028
 - Showcase designs/protypes 
 - Learn about its authors and design
 
-## Developers Showcased:
+### Developers Showcased:
 
 
 
@@ -27,7 +27,7 @@ Developed by [JRB-06](https://github.com/JRB-06)
   Aspiring Full-Stack Developer specializing in Web Application Devlopment
   Developed this website to learn/build a full stack web application with Vite+React+Tailwind application
 
-## Contributors
+### Contributors
 
 
 
