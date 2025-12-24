@@ -1,5 +1,5 @@
 # Project-Showroom
-Temporary Demo: http://localhost:5174/
+Temporary Demo: 
 > __Note:__ Only active when debugging  
 
 # About
