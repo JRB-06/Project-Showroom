@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme{
+  --font-display: "Courier New", monospace;
+}
+
+body{
+  @apply 
+  bg-black
+  font-display
+  text-white
+}
+
+a{
+  @apply 
+  text-[#800000] 
+  hover:cursor-pointer 
+  hover:text-red-700
+}
