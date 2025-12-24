@@ -15,10 +15,10 @@ __Developers Showcased:__
 
 
 # Website 
-Programmed with [vite](vite.dev)
+Programmed with [vite](https://vite.dev/)
 
 __Client Side__
-Built with [React.js](react.dev) (JavaScript Framework) + [Tailwind](tailwindcss.com) (CSS Framework) 
+Built with [React.js](https://react.dev/) (JavaScript Framework) + [Tailwind](https://tailwindcss.com/) (CSS Framework) 
 
 
 
