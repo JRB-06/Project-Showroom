@@ -34,7 +34,7 @@ __Contributors__
 # Features
 
 # Licensing
-This project is open-source and available under the MIT License. See [LICENSE](/LICENSE)for details.
+This project is open-source and available under the MIT License. See [LICENSE](/LICENSE) for details.
 
 
 
