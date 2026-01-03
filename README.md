@@ -17,12 +17,13 @@ __Bachelor of Science in Computer Science__ Batch 2028
 
 
 # Website 
-Programmed with [vite](https://vite.dev/)
-
-__Client Side__  
-Built with [React.js](https://react.dev/) (JavaScript Framework) + [Tailwind](https://tailwindcss.com/) (CSS Framework) 
-
-
+Static website
+HTML + CSS + JAVASCRIPT
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=100px width=100px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=100px width=100px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=100px width=100px/>
+</span>
 
 # Website Developer
 Developed by [JRB-06](https://github.com/JRB-06)  
