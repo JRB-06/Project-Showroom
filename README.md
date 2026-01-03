@@ -18,7 +18,8 @@ __Bachelor of Science in Computer Science__ Batch 2028
 
 # Website 
 Static website
-HTML + CSS + JAVASCRIPT
+HTML + CSS + JAVASCRIPT  
+
 <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=100px width=100px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=100px width=100px/>
